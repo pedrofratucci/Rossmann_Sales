@@ -228,6 +228,7 @@ By looking the daily average sales trough the years, month by month, the pattern
 ### Numerical Features Correlation
 
 <img src= "storytelling/num_features_relations_1.png"> 
+
 There aren't variables that have a strong correlation between them, so we don't need to bother to delete them for now.
 
 **There are a few correlated variables, which are:**
@@ -238,6 +239,7 @@ There aren't variables that have a strong correlation between them, so we don't 
 - **`promo2_time_week`**       and   **`is_promo2_active`**     (45% correlation)
 
 <img src= "storytelling/num_features_relations_2.png"> 
+
 **There are some numerical variables that have considerable impact over `sales` label value:**
 
 - **`customers`** (82% correlation)
@@ -249,6 +251,7 @@ There aren't variables that have a strong correlation between them, so we don't 
 ### Categorical Features Correlation
 
 <img src= "storytelling/cat_features_relations.png"> 
+
 There aren't variables that have a strong correlation between them, so we don't need to bother to delete them for now.
 
 **There are a few correlated variables, which are:**
