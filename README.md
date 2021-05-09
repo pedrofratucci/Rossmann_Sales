@@ -143,7 +143,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 <img src= "storytelling/H7_2.png"> 
 - By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more at the second semester, is solid and atemporal.
 - Is important to notice that the last date in the dataset is 31/07/2015, so there wasn't enough sales at second semester's sales yet. Thats why the second semester for 2015 bar column is smaller than the first semesters column, in the graph above.
-- 
+
 ### Hypothesis 8: The total stores revenue increases year over year
 
 **FALSE**
