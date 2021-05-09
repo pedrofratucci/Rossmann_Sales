@@ -1,4 +1,4 @@
-# Transactions Fraud Prediction
+# Rosmman Sales Prediction
 ![Main figure](https://www.cosmetic-business.com/media/mandant/globale-verfuegbare-Medien/News-Upload/CosmeticBusiness/2015/rossmann-schriftzug.jpg)
 
 
