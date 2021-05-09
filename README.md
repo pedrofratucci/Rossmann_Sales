@@ -73,6 +73,7 @@ There are some techniques, that we will see in the next sections, that allow us 
 **FALSE**
 
 <img src= "storytelling/H1.png"> 
+
 - There is no pattern that indicates that the daily average sale decreases as closer the competitor store is.
 - Also, the behavior varies a lot through the competitor distance range, which sometimes increases the store sales, and sometimes decreases the store sales.
 
@@ -82,30 +83,36 @@ There are some techniques, that we will see in the next sections, that allow us 
 **TRUE**
 
 <img src= "storytelling/H2_1.png"> 
+
 By looking the big picture (cumulative sales), the more customers the store has, the more it sells daily.
 
 <img src= "storytelling/H2_2.png"> 
-By looking the daily average sales trough the years, the pattern seen in the cumulative sales is the same, indicating that this behavior, which the stores are more likely to sells more by increasing the customers, is solid and atemporal.
+
+By looking the daily average sales trough the years, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more by increasing the customers, is solid and atemporal.
 
 ### Hypothesis 3: Stores are more likely sell more in the month's first 10 days than the rest of it
 
 **FALSE**
 
 <img src= "storytelling/H3_1.png"> 
+
 By looking the big picture (cumulative sales), the store's don't sell more in the first month's 10 days than the rest of the month.
 
 <img src= "storytelling/H3_2.png"> 
-By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior, which the stores are more likely to sells more after the month's 10 days is higher than the sales before the 10th day, is solid and atemporal.
+
+By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more after the month's 10 days is higher than the sales before the 10th day, is solid and atemporal.
 
 ### Hypothesis 4: Stores are more likely to sell more daily in a weekend day than a work week day
 
 **FALSE**
 
 <img src= "storytelling/H4_1.png"> 
+
 By looking the big picture (cumulative sales), the stores don't sell more in a weekend day than a work week day. 
 
 <img src= "storytelling/H4_2.png"> 
-By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior, which the stores are more likely to sells more in a work week day than a weekend day, is solid and atemporal.
+
+By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more in a work week day than a weekend day, is solid and atemporal.
 
 
 ### Hypothesis 5: Stores are more likely to increase their daily sales in the winter than any other season
@@ -113,10 +120,12 @@ By looking the daily average sales trough the years, month by month, the pattern
 **FALSE**
 
 <img src= "storytelling/H5_1.png"> 
+
 By looking the big picture (cumulative sales), the stores increases their daily average sales on fall, followed by spring, summer and winter, respectively. 
 
 <img src= "storytelling/H5_2.png"> 
-- By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior, which the stores are more likely to sells more on fall followed by spring, summer and winter, is solid and atemporal.
+
+- By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more on fall followed by spring, summer and winter, is solid and atemporal.
 - Is important to notice that the last date in the dataset is 31/07/2015, so there was no fall season at that year. Thats why there is no fall season bar column for 2015 in the graph above.
 
 ### Hypothesis 6: Stores are more likely to have their best daily sales in Christmas holiday
@@ -124,11 +133,13 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 **FALSE**
 
 <img src= "storytelling/H6_1.png"> 
+
 - By looking the big picture (cumulative sales), the stores increases their daily average sales on easter, followed by christmas and public holidays, respectively. 
 - The difference between the daily average sales during easter holiday and christmas holiday is very low, something that is needed to be check through all the years.
 
 <img src= "storytelling/H6_2.png"> 
-- By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales diverges through the years, indicating that this behavior, which the stores are more likely to sells more at Easter holiday than Christmas holiday, isn't solid and atemporal.
+
+- By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales diverges through the years, indicating that this behavior - which the stores are more likely to sells more at Easter holiday than Christmas holiday, isn't solid and atemporal.
 - Is important to notice that the last date in the dataset is 31/07/2015, so there was no christmas holiday at that year. Thats why there is no christmas holiday bar column for 2015 in the graph above.
 
 ### Hypothesis 7: Stores daily sales are more likely to increase at the second semester 
@@ -136,11 +147,13 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 **TRUE**
 
 <img src= "storytelling/H7_1.png"> 
+
 - By looking the big picture (cumulative sales), the stores increases their daily average sales at the second semester.
 - The difference between the daily average sales at the first and second semester is very low, something that is needed to be check through all the years.
 
 <img src= "storytelling/H7_2.png"> 
-- By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior, which the stores are more likely to sells more at the second semester, is solid and atemporal.
+
+- By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more at the second semester, is solid and atemporal.
 - Is important to notice that the last date in the dataset is 31/07/2015, so there wasn't enough sales at second semester's sales yet. Thats why the second semester for 2015 bar column is smaller than the first semesters column, in the graph above.
 
 ### Hypothesis 8: The total stores revenue increases year over year
@@ -148,6 +161,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 **FALSE**
 
 <img src= "storytelling/H8.png"> 
+
 - The 2015 bar column is so much lower than the others because the last date in the dataset was 31/07/2015, so this total year revenue wasn't complete.
 - By looking the graph above, the total Rossmann store's revenue trough the years is going down. But there are just 2 valid year's samples, and more other year's informations are needed to conclude such an affirmative.
 
@@ -156,6 +170,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 **FALSE**
 
 <img src= "storytelling/H9.png"> 
+
 - There is no pattern that indicates that the daily average sale increases as longer is the promotion 2 running time. 
 - Also, the behavior varies a lot through the promotion 2 running time range, which sometimes increases the store sales, and sometimes decreases the store sales.
 
@@ -164,17 +179,20 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 **FALSE**
 
 <img src= "storytelling/H10.png"> 
-By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior, which the stores are more likely to sells more daily running only promotion **`promo`** than running two promotions, is solid and atemporal.
+
+By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more daily running only promotion **`promo`** than running two promotions, is solid and atemporal.
 
 ### Hypothesis 11: Stores daily sales increases the more variate its assortment level is
 
 **TRUE**
 
 <img src= "storytelling/H11_1.png"> 
+
 By looking the big picture (cumulative sales), the stores increases their daily average sales by selling more assorted products.
 
 <img src= "storytelling/H11_2.png"> 
-By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior, which the stores are more likely to sells more daily when selling more assorted products, is solid and atemporal.
+
+By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more daily when selling more assorted products, is solid and atemporal.
 
 ### Hypothesis 12: Stores sales increases the longer its closest competitor exists
 
@@ -196,11 +214,13 @@ There are negative and positive values, and we will consider them as the follow:
 **TRUE**
 
 <img src= "storytelling/H13_1.png"> 
+
 - By looking the big picture (cumulative sales), the stores increases their daily average sales on school holidays.
 
 - The difference between the daily average sales on school holidays and daily average sales not on school holidays is very low, something that is needed to be check through all the years.
 
 <img src= "storytelling/H13_2.png"> 
+
 By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more on school holidays than not on school holidays, is solid and atemporal.
 
 ## Multivariate Analysis
