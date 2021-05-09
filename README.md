@@ -119,7 +119,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 <img src= "storytelling/H5_2.png"> 
 - By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more on fall followed by spring, summer and winter, is solid and atemporal.
 - Is important to notice that the last date in the dataset is 31/07/2015, so there was no fall season at that year. Thats why there is no fall season bar column for 2015 in the graph above.
-- 
+
 ### Hypothesis 6: Stores are more likely to have their best daily sales in Christmas holiday
 
 **FALSE**
