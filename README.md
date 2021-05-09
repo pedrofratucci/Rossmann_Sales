@@ -131,7 +131,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 <img src= "storytelling/H6_2.png"> 
 - By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales diverges through the years, indicating that this behavior - which the stores are more likely to sells more at Easter holiday than Christmas holiday, isn't solid and atemporal.
 - Is important to notice that the last date in the dataset is 31/07/2015, so there was no christmas holiday at that year. Thats why there is no christmas holiday bar column for 2015 in the graph above.
-- 
+
 ### Hypothesis 7: Stores daily sales are more likely to increase at the second semester 
 
 **TRUE**
