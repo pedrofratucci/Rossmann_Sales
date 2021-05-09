@@ -281,7 +281,7 @@ In process...
 
 # Business Solution Performance
 
-In proces...
+In process...
 
 # Deploy 
 
@@ -290,7 +290,7 @@ The model predictions, store by store, can be found through this chatbot in Tele
 
 # Further Improvements
 
-In proces...
+In process...
 
 # References
 
