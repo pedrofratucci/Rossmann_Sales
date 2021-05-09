@@ -118,6 +118,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 
 <img src= "storytelling/H5_2.png"> 
 - By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more on fall followed by spring, summer and winter, is solid and atemporal.
+
 - Is important to notice that the last date in the dataset is 31/07/2015, so there was no fall season at that year. Thats why there is no fall season bar column for 2015 in the graph above.
 
 ### Hypothesis 6: Stores are more likely to have their best daily sales in Christmas holiday
@@ -130,6 +131,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 
 <img src= "storytelling/H6_2.png"> 
 - By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales diverges through the years, indicating that this behavior - which the stores are more likely to sells more at Easter holiday than Christmas holiday, isn't solid and atemporal.
+
 - Is important to notice that the last date in the dataset is 31/07/2015, so there was no christmas holiday at that year. Thats why there is no christmas holiday bar column for 2015 in the graph above.
 
 ### Hypothesis 7: Stores daily sales are more likely to increase at the second semester 
@@ -142,6 +144,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 
 <img src= "storytelling/H7_2.png"> 
 - By looking the daily average sales trough the years, month by month, the pattern seen in the cumulative sales is the same, indicating that this behavior - which the stores are more likely to sells more at the second semester, is solid and atemporal.
+
 - Is important to notice that the last date in the dataset is 31/07/2015, so there wasn't enough sales at second semester's sales yet. Thats why the second semester for 2015 bar column is smaller than the first semesters column, in the graph above.
 
 ### Hypothesis 8: The total stores revenue increases year over year
@@ -158,6 +161,7 @@ By looking the big picture (cumulative sales), the stores increases their daily 
 
 <img src= "storytelling/H9.png"> 
 - There is no pattern that indicates that the daily average sale increases as longer is the promotion 2 running time. 
+
 - Also, the behavior varies a lot through the promotion 2 running time range, which sometimes increases the store sales, and sometimes decreases the store sales.
 
 ### Hypothesis 10: Stores daily sales increases the more consecutive promotions it has
@@ -189,6 +193,7 @@ There are negative and positive values, and we will consider them as the follow:
 - **Stores with positive competition months** are store that are already in a competition.
 
 - As seen in section 4.2.1, there isn't a clearly visible sales behavior when considering the competitor's influence, over the Rossmann stores.
+
 - Also, the behavior varies a lot through the competition time range, with sometimes increases the store sales, and sometime decreases the store sales.
 
 ### Hypothesis 13: Stores sales increases during the schools holidays
@@ -197,6 +202,7 @@ There are negative and positive values, and we will consider them as the follow:
 
 <img src= "storytelling/H13_1.png"> 
 - By looking the big picture (cumulative sales), the stores increases their daily average sales on school holidays.
+
 - The difference between the daily average sales on school holidays and daily average sales not on school holidays is very low, something that is needed to be check through all the years.
 
 <img src= "storytelling/H13_2.png"> 
