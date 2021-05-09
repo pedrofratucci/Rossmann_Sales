@@ -204,9 +204,7 @@ There are negative and positive values, and we will consider them as the follow:
 
 - **Stores with negative competition months** are store that already knew when they competitor was going to inaugurate their store in the future.
 - **Stores with positive competition months** are store that are already in a competition.
-
 - As seen in section 4.2.1, there isn't a clearly visible sales behavior when considering the competitor's influence, over the Rossmann stores.
-
 - Also, the behavior varies a lot through the competition time range, with sometimes increases the store sales, and sometime decreases the store sales.
 
 ### Hypothesis 13: Stores sales increases during the schools holidays
@@ -216,7 +214,6 @@ There are negative and positive values, and we will consider them as the follow:
 <img src= "storytelling/H13_1.png"> 
 
 - By looking the big picture (cumulative sales), the stores increases their daily average sales on school holidays.
-
 - The difference between the daily average sales on school holidays and daily average sales not on school holidays is very low, something that is needed to be check through all the years.
 
 <img src= "storytelling/H13_2.png"> 
